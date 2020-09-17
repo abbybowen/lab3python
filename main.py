@@ -1,9 +1,8 @@
 # Author: Abigail Bowen aeb6095@psu.edu
-# Collaborator:
-# Collaborator:
-# Collaborator:
+# Collaborator: Nathan Knox nhk5053@psu.edu
+# Collaborator: Aaryan Darshin Bavishi aqb6298@psu.edu
 # Section: 6
-# Breakout:
+# Breakout: 10
 def sum_n(n):
   if n == 0:
     return 0
