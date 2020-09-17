@@ -4,10 +4,8 @@
 # Section: 6
 # Breakout: 10
 def sum_n(n):
-  if n == 0:
-    return 0
-  elif n == 1:
-    return 1
+  if n <= 1:
+    return n
   else:
     return n + sum_n(n-1)
 
